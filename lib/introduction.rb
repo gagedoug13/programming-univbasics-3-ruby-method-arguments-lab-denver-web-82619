@@ -1,4 +1,4 @@
-def introduction(name) do
+def method(name) do
   puts "Hi, my name is #{name}"
 end
 
